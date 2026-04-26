@@ -22,7 +22,7 @@ from livekit.agents.voice import Agent, AgentSession
 from livekit.agents.llm import mcp
 
 # Plugins
-from livekit.plugins import google as lk_google, openai as lk_openai, sarvam, silero
+from livekit.plugins import google as lk_google, openai as lk_openai, sarvam
 
 # ---------------------------------------------------------------------------
 # CONFIG
